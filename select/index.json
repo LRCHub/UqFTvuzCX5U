@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DRAGON 2021",
+  "base_artist": "JAM Project",
+  "createdAt": "2026-03-09T20:21:33.577668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dragon Fly",
+      "artist": "Yann Tiersen & Shannon Wright",
+      "has_synced": true,
+      "path": "select/01_Dragon_Fly_Yann_Tiersen_&_Shannon_Wright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dragon Queen",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/02_Dragon_Queen_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dragon (feat. Roddy Ricch)",
+      "artist": "Lil Keed feat. Roddy Ricch",
+      "has_synced": true,
+      "path": "select/03_Dragon_(feat._Roddy_Ricch)_Lil_Keed_feat._Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dragon (feat. Roddy Ricch)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/04_Dragon_(feat._Roddy_Ricch)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Dragon King",
+      "artist": "Monkey",
+      "has_synced": false,
+      "path": "select/05_The_Dragon_King_Monkey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dragon Attack",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_Dragon_Attack_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dragon Slayer",
+      "artist": "Animal Collective",
+      "has_synced": true,
+      "path": "select/07_Dragon_Slayer_Animal_Collective.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ride the dragon",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/08_ride_the_dragon_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dragon Tattoo",
+      "artist": "Fatima Al Qadiri",
+      "has_synced": false,
+      "path": "select/09_Dragon_Tattoo_Fatima_Al_Qadiri.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dragon",
+      "artist": "The Beta Band",
+      "has_synced": false,
+      "path": "select/10_Dragon_The_Beta_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dreamy Dragon",
+      "artist": "Alison Wonderland feat. Chief Keef",
+      "has_synced": true,
+      "path": "select/11_Dreamy_Dragon_Alison_Wonderland_feat._Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dreamy Dragon",
+      "artist": "Alison Wonderland",
+      "has_synced": true,
+      "path": "select/12_Dreamy_Dragon_Alison_Wonderland.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thom Pettie (Feat. Little Dragon And Killer Mike)",
+      "artist": "Big Boi",
+      "has_synced": false,
+      "path": "select/13_Thom_Pettie_(Feat._Little_Dragon_And_Killer_Mike)_Big_Boi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Descending (Feat. Little Dragon)",
+      "artist": "Big Boi",
+      "has_synced": true,
+      "path": "select/14_Descending_(Feat._Little_Dragon)_Big_Boi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DRAGON",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/pl_01_DRAGON_JAM_Project.txt"
+    }
+  ]
+}
